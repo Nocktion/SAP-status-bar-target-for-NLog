@@ -1,0 +1,1 @@
+# SAP-status-bar-target-for-NLog
