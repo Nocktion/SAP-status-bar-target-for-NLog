@@ -1,6 +1,6 @@
-# SAP Status Bar target for NLog
+# SAP Business One Status Bar target for NLog
 
-A simple NLog target that writes out messages to the status bar in SAP
+A simple NLog target that writes out messages to the status bar in SAP Business One
 
 # Usage
 
